@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://appsumo.8odi.net/raZjmB" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nicolas-Dovrit/prettyprompt-review/main/0e9efbf6-5987-48dd-8937-016ff5f21765.png" 
+    <img src="[https://raw.githubusercontent.com/Nicolas-Dovrit/prettyprompt-review/main/0e9efbf6-5987-48dd-8937-016ff5f21765.png]" 
          alt="Prettyprompt AppSumo"
          width="850px"
          style="border-radius:12px;">
